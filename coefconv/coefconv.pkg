@@ -1,4 +1,6 @@
-D 'psr': Propensity score residual regression for overlap-weight average treatment effect Use psr With STATA 19
+D 'coefconv': Comprehensive marginal effects from regression slope coefficients Use coefconv With STATA 19
 D
-F psr.ado
-F psr.sthlp
+F coefconv.ado
+F coefconv.sthlp
+F coefconv_plot.ado
+F coefconv_plot.sthlp
