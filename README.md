@@ -1,6 +1,8 @@
 # coefconv
 Comprehensive marginal effects from regression slope coefficients Use coefconv With STATA 19
 
+https://www.youtube.com/watch?v=3cIJf1Qfq7g
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
